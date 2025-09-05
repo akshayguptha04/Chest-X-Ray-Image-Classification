@@ -1,1 +1,2 @@
 # Chest-X-Ray-Image-Classification
+Developed a system to classify chest X-ray images into categories such as COVID-19, pneumonia, and normal lung conditions using Convolutional Neural Networks (CNN).
